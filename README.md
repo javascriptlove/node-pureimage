@@ -6,6 +6,10 @@ PureImage
 PureImage is a pure JavaScript implementation of the HTML Canvas 2d drawing api for NodeJS.
 It has no native dependencies.
 
+Installation
+=============
+
+`npm install --save pureimage`
 
 New 0.1.x release
 =================
